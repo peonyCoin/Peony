@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="peonycoin" targetName="peonycoin" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26adfad7-96d7-4097-920d-08668a28b857" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/COPYING" afterPath="$PROJECT_DIR$/COPYING" />
+      <change beforePath="$PROJECT_DIR$/DV7Coin-qt.pro" afterPath="$PROJECT_DIR$/PeonyCoin-qt.pro" />
+      <change beforePath="$PROJECT_DIR$/INSTALL" afterPath="$PROJECT_DIR$/INSTALL" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/compile.sh" afterPath="$PROJECT_DIR$/compile.sh" />
+      <change beforePath="$PROJECT_DIR$/contrib/macdeploy/fancy.plist" afterPath="$PROJECT_DIR$/contrib/macdeploy/fancy.plist" />
+      <change beforePath="$PROJECT_DIR$/contrib/macdeploy/notes.txt" afterPath="$PROJECT_DIR$/contrib/macdeploy/notes.txt" />
+      <change beforePath="$PROJECT_DIR$/contrib/wallettools/walletchangepass.py" afterPath="$PROJECT_DIR$/contrib/wallettools/walletchangepass.py" />
+      <change beforePath="$PROJECT_DIR$/contrib/wallettools/walletunlock.py" afterPath="$PROJECT_DIR$/contrib/wallettools/walletunlock.py" />
+      <change beforePath="$PROJECT_DIR$/doc/README" afterPath="$PROJECT_DIR$/doc/README" />
+      <change beforePath="$PROJECT_DIR$/doc/README_windows.txt" afterPath="$PROJECT_DIR$/doc/README_windows.txt" />
+      <change beforePath="$PROJECT_DIR$/doc/build-msw.txt" afterPath="$PROJECT_DIR$/doc/build-msw.txt" />
+      <change beforePath="$PROJECT_DIR$/doc/build-osx.txt" afterPath="$PROJECT_DIR$/doc/build-osx.txt" />
+      <change beforePath="$PROJECT_DIR$/doc/build-unix.txt" afterPath="$PROJECT_DIR$/doc/build-unix.txt" />
+      <change beforePath="$PROJECT_DIR$/doc/readme-qt.rst" afterPath="$PROJECT_DIR$/doc/readme-qt.rst" />
+      <change beforePath="$PROJECT_DIR$/dv7-qt_plugin_import.cpp" afterPath="$PROJECT_DIR$/peony-qt_plugin_import.cpp" />
+      <change beforePath="$PROJECT_DIR$/share/qt/Info.plist" afterPath="$PROJECT_DIR$/share/qt/Info.plist" />
+      <change beforePath="$PROJECT_DIR$/share/qt/make_macos_icns.sh" afterPath="$PROJECT_DIR$/share/qt/make_macos_icns.sh" />
+      <change beforePath="$PROJECT_DIR$/share/qt/make_windows_icon.sh" afterPath="$PROJECT_DIR$/share/qt/make_windows_icon.sh" />
+      <change beforePath="$PROJECT_DIR$/share/seeds/generate-seeds.py" afterPath="$PROJECT_DIR$/share/seeds/generate-seeds.py" />
+      <change beforePath="$PROJECT_DIR$/src/base58.h" afterPath="$PROJECT_DIR$/src/base58.h" />
+      <change beforePath="$PROJECT_DIR$/src/bignum.h" afterPath="$PROJECT_DIR$/src/bignum.h" />
+      <change beforePath="$PROJECT_DIR$/src/bitcoind.cpp" afterPath="$PROJECT_DIR$/src/bitcoind.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/chainparams.cpp" afterPath="$PROJECT_DIR$/src/chainparams.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/chainparamsseeds.h" afterPath="$PROJECT_DIR$/src/chainparamsseeds.h" />
+      <change beforePath="$PROJECT_DIR$/src/checkpoints.cpp" afterPath="$PROJECT_DIR$/src/checkpoints.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/crypter.cpp" afterPath="$PROJECT_DIR$/src/crypter.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/init.cpp" afterPath="$PROJECT_DIR$/src/init.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/kernel.cpp" afterPath="$PROJECT_DIR$/src/kernel.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" afterPath="$PROJECT_DIR$/src/main.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/main.h" afterPath="$PROJECT_DIR$/src/main.h" />
+      <change beforePath="$PROJECT_DIR$/src/makefile.bsd" afterPath="$PROJECT_DIR$/src/makefile.bsd" />
+      <change beforePath="$PROJECT_DIR$/src/makefile.linux-mingw" afterPath="$PROJECT_DIR$/src/makefile.linux-mingw" />
+      <change beforePath="$PROJECT_DIR$/src/makefile.mingw" afterPath="$PROJECT_DIR$/src/makefile.mingw" />
+      <change beforePath="$PROJECT_DIR$/src/makefile.osx" afterPath="$PROJECT_DIR$/src/makefile.osx" />
+      <change beforePath="$PROJECT_DIR$/src/makefile.unix" afterPath="$PROJECT_DIR$/src/makefile.unix" />
+      <change beforePath="$PROJECT_DIR$/src/miner.cpp" afterPath="$PROJECT_DIR$/src/miner.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/miner.h" afterPath="$PROJECT_DIR$/src/miner.h" />
+      <change beforePath="$PROJECT_DIR$/src/net.cpp" afterPath="$PROJECT_DIR$/src/net.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/qt/askpassphrasedialog.cpp" afterPath="$PROJECT_DIR$/src/qt/askpassphrasedialog.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/qt/bitcoin.cpp" afterPath="$PROJECT_DIR$/src/qt/bitcoin.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/qt/bitcoin.qrc" afterPath="$PROJECT_DIR$/src/qt/bitcoin.qrc" />
+      <change beforePath="$PROJECT_DIR$/src/qt/bitcoingui.cpp" afterPath="$PROJECT_DIR$/src/qt/bitcoingui.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/qt/bitcoinstrings.cpp" afterPath="$PROJECT_DIR$/src/qt/bitcoinstrings.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/qt/bitcoinunits.cpp" afterPath="$PROJECT_DIR$/src/qt/bitcoinunits.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/qt/editaddressdialog.cpp" afterPath="$PROJECT_DIR$/src/qt/editaddressdialog.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/qt/forms/aboutdialog.ui" afterPath="$PROJECT_DIR$/src/qt/forms/aboutdialog.ui" />
+      <change beforePath="$PROJECT_DIR$/src/qt/forms/addressbookpage.ui" afterPath="$PROJECT_DIR$/src/qt/forms/addressbookpage.ui" />
+      <change beforePath="$PROJECT_DIR$/src/qt/forms/coincontroldialog.ui" afterPath="$PROJECT_DIR$/src/qt/forms/coincontroldialog.ui" />
+      <change beforePath="$PROJECT_DIR$/src/qt/forms/optionsdialog.ui" afterPath="$PROJECT_DIR$/src/qt/forms/optionsdialog.ui" />
+      <change beforePath="$PROJECT_DIR$/src/qt/forms/overviewpage.ui" afterPath="$PROJECT_DIR$/src/qt/forms/overviewpage.ui" />
+      <change beforePath="$PROJECT_DIR$/src/qt/forms/rpcconsole.ui" afterPath="$PROJECT_DIR$/src/qt/forms/rpcconsole.ui" />
+      <change beforePath="$PROJECT_DIR$/src/qt/forms/sendcoinsdialog.ui" afterPath="$PROJECT_DIR$/src/qt/forms/sendcoinsdialog.ui" />
+      <change beforePath="$PROJECT_DIR$/src/qt/forms/signverifymessagedialog.ui" afterPath="$PROJECT_DIR$/src/qt/forms/signverifymessagedialog.ui" />
+      <change beforePath="$PROJECT_DIR$/src/qt/guiutil.cpp" afterPath="$PROJECT_DIR$/src/qt/guiutil.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/qt/guiutil.h" afterPath="$PROJECT_DIR$/src/qt/guiutil.h" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_af_ZA.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_af_ZA.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_ar.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ar.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_be_BY.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_be_BY.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_bg.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_bg.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_bs.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_bs.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_ca.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ca.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_ca@valencia.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ca@valencia.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_ca_ES.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ca_ES.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_cs.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_cs.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_cy.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_cy.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_da.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_da.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_de.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_de.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_el_GR.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_el_GR.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_en.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_en.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_eo.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_eo.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_es.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_es.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_es_AR.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_es_AR.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_es_CL.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_es_CL.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_es_DO.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_es_DO.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_es_MX.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_es_MX.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_es_UY.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_es_UY.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_et.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_et.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_eu_ES.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_eu_ES.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_fa.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_fa.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_fa_IR.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_fa_IR.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_fi.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_fi.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_fr.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_fr.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_fr_CA.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_fr_CA.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_gl.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_gl.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_he.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_he.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_hi_IN.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_hi_IN.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_hr.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_hr.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_hu.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_hu.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_id_ID.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_id_ID.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_it.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_it.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_ja.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ja.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_ka.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ka.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_kk_KZ.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_kk_KZ.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_ko_KR.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ko_KR.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_ky.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ky.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_la.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_la.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_lt.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_lt.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_lv_LV.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_lv_LV.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_ms_MY.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ms_MY.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_nb.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_nb.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_nl.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_nl.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_pam.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_pam.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_pl.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_pl.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_pt_BR.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_pt_BR.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_pt_PT.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_pt_PT.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_ro_RO.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ro_RO.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_ru.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ru.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_sah.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_sah.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_sk.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_sk.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_sl_SI.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_sl_SI.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_sq.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_sq.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_sr.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_sr.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_sv.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_sv.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_th_TH.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_th_TH.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_tr.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_tr.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_uk.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_uk.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_ur_PK.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_ur_PK.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_vi.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_vi.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_vi_VN.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_vi_VN.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_zh_CN.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_zh_CN.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/locale/bitcoin_zh_TW.ts" afterPath="$PROJECT_DIR$/src/qt/locale/bitcoin_zh_TW.ts" />
+      <change beforePath="$PROJECT_DIR$/src/qt/macnotificationhandler.mm" afterPath="$PROJECT_DIR$/src/qt/macnotificationhandler.mm" />
+      <change beforePath="$PROJECT_DIR$/src/qt/optionsdialog.cpp" afterPath="$PROJECT_DIR$/src/qt/optionsdialog.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/qt/paymentserver.cpp" afterPath="$PROJECT_DIR$/src/qt/paymentserver.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/qt/qrcodedialog.cpp" afterPath="$PROJECT_DIR$/src/qt/qrcodedialog.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/qt/res/bitcoin-qt.rc" afterPath="$PROJECT_DIR$/src/qt/res/bitcoin-qt.rc" />
+      <change beforePath="$PROJECT_DIR$/src/qt/res/icons/DV7Coin-1024.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/qt/res/icons/DV7Coin-128.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/qt/res/icons/DV7Coin-16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/qt/res/icons/DV7Coin-32.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/qt/res/icons/DV7Coin-48.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/qt/res/icons/DV7Coin-80.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/qt/res/icons/DV7Coin.icns" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/qt/res/icons/DV7Coin.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/qt/res/icons/DV7Coin.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/qt/res/icons/logo_backg.png" afterPath="$PROJECT_DIR$/src/qt/res/icons/logo_backg.png" />
+      <change beforePath="$PROJECT_DIR$/src/qt/res/images/splash.png" afterPath="$PROJECT_DIR$/src/qt/res/images/splash.png" />
+      <change beforePath="$PROJECT_DIR$/src/qt/rpcconsole.cpp" afterPath="$PROJECT_DIR$/src/qt/rpcconsole.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/qt/sendcoinsdialog.cpp" afterPath="$PROJECT_DIR$/src/qt/sendcoinsdialog.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/qt/sendcoinsentry.cpp" afterPath="$PROJECT_DIR$/src/qt/sendcoinsentry.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/qt/signverifymessagedialog.cpp" afterPath="$PROJECT_DIR$/src/qt/signverifymessagedialog.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/rpcdump.cpp" afterPath="$PROJECT_DIR$/src/rpcdump.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/rpcmining.cpp" afterPath="$PROJECT_DIR$/src/rpcmining.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/rpcmisc.cpp" afterPath="$PROJECT_DIR$/src/rpcmisc.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/rpcprotocol.cpp" afterPath="$PROJECT_DIR$/src/rpcprotocol.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/rpcrawtransaction.cpp" afterPath="$PROJECT_DIR$/src/rpcrawtransaction.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/rpcserver.cpp" afterPath="$PROJECT_DIR$/src/rpcserver.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/rpcwallet.cpp" afterPath="$PROJECT_DIR$/src/rpcwallet.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/timedata.cpp" afterPath="$PROJECT_DIR$/src/timedata.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/txdb-leveldb.cpp" afterPath="$PROJECT_DIR$/src/txdb-leveldb.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/util.cpp" afterPath="$PROJECT_DIR$/src/util.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/util.h" afterPath="$PROJECT_DIR$/src/util.h" />
+      <change beforePath="$PROJECT_DIR$/src/wallet.cpp" afterPath="$PROJECT_DIR$/src/wallet.cpp" />
+      <change beforePath="$PROJECT_DIR$/src/walletdb.cpp" afterPath="$PROJECT_DIR$/src/walletdb.cpp" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39924">
+              <caret line="2218" column="0" lean-forward="false" selection-start-line="2218" selection-start-column="0" selection-end-line="2218" selection-end-column="0" />
+              <folding>
+                <element signature="e#630#688#0" expanded="true" />
+                <element signature="e#77259#78803#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base58.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/base58.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chainparams.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chainparams.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="116" column="41" lean-forward="false" selection-start-line="116" selection-start-column="41" selection-end-line="116" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="overviewpage.ui" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/qt/forms/overviewpage.ui">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="58" column="39" lean-forward="false" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="generate-seeds.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/share/seeds/generate-seeds.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2034">
+              <caret line="117" column="43" lean-forward="false" selection-start-line="117" selection-start-column="43" selection-end-line="117" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0x</find>
+      <find>assert</find>
+      <find>logprin</find>
+      <find>Enable</find>
+      <find>Enable wa</find>
+      <find>genesi</find>
+      <find>log</find>
+      <find>pindexGenesisBlock</find>
+      <find>base</find>
+      <find>Merkler</find>
+      <find>GenesisBlock</find>
+      <find>hashGenesisBlock</find>
+      <find>CmainParams</find>
+      <find>block.nNonce</find>
+      <find>if (true</find>
+      <find>genesis</find>
+      <find>merkleroo</find>
+      <find>nNonce</find>
+      <find>bits</find>
+      <find>bits:</find>
+      <find>pubkey</find>
+      <find>pubkey =</find>
+      <find>genesisblock</find>
+      <find>00000245cf3c169c3b5064444c169efae6c334025f0fd63eaad475b83ffb6ba8</find>
+      <find>MerkleR</find>
+      <find>04ffff001d01042f303220417072203138202d20536f6d657468696e6720676f65732077726f6e6720746869732064617920616761696e</find>
+      <find>merkleroot</find>
+      <find>ProofofW</find>
+      <find>address</find>
+      <find>ProofOfW</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>PEONYCOIN</replace>
+      <replace>PeonyCoin</replace>
+      <replace>peonycoin</replace>
+      <replace>peony</replace>
+      <replace>PEONY</replace>
+      <replace>16088</replace>
+      <replace>16089</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/share</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/base58.cpp" />
+        <option value="$PROJECT_DIR$/src/base58.h" />
+        <option value="$PROJECT_DIR$/src/bignum.h" />
+        <option value="$PROJECT_DIR$/src/crypter.cpp" />
+        <option value="$PROJECT_DIR$/src/checkpoints.cpp" />
+        <option value="$PROJECT_DIR$/src/main.h" />
+        <option value="$PROJECT_DIR$/src/main.cpp" />
+        <option value="$PROJECT_DIR$/src/chainparams.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="534" />
+    <option name="y" value="25" />
+    <option name="width" value="952" />
+    <option name="height" value="913" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="peonycoin" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="peonycoin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="peonycoin" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="peonycoin" type="462c0819:PsiDirectoryNode" />
+              <item name="share" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="peonycoin" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="peonycoin" type="462c0819:PsiDirectoryNode" />
+              <item name="share" type="462c0819:PsiDirectoryNode" />
+              <item name="seeds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="peonycoin" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="peonycoin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="peonycoin" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="peonycoin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="qt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="peonycoin" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="peonycoin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="qt" type="462c0819:PsiDirectoryNode" />
+              <item name="forms" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.peonycoin">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="peonycoin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="peonycoin" TARGET_NAME="peonycoin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="peonycoin" RUN_TARGET_NAME="peonycoin">
+      <envs />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.peonycoin" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26adfad7-96d7-4097-920d-08668a28b857" name="Default" comment="" />
+      <created>1522517683966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522517683966</updated>
+      <workItem from="1522517686669" duration="2628000" />
+      <workItem from="1522588776695" duration="1886000" />
+      <workItem from="1522605183814" duration="5833000" />
+      <workItem from="1522661179475" duration="2904000" />
+      <workItem from="1522664082139" duration="23468000" />
+      <workItem from="1522749792368" duration="1234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37953000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="534" y="25" width="1922" height="919" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31614584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39924">
+          <caret line="2218" column="0" lean-forward="true" selection-start-line="2218" selection-start-column="0" selection-end-line="2218" selection-end-column="0" />
+          <folding>
+            <element signature="e#630#688#0" expanded="true" />
+            <element signature="e#77259#78803#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base58.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/share/seeds/generate-seeds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="117" column="43" lean-forward="false" selection-start-line="117" selection-start-column="43" selection-end-line="117" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chainparams.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2088">
+          <caret line="116" column="73" lean-forward="false" selection-start-line="116" selection-start-column="73" selection-end-line="116" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45648">
+          <caret line="2536" column="56" lean-forward="false" selection-start-line="2536" selection-start-column="56" selection-end-line="2536" selection-end-column="56" />
+          <folding>
+            <element signature="e#630#688#0" expanded="true" />
+            <element signature="e#77259#78803#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/miner.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="100" column="35" lean-forward="true" selection-start-line="100" selection-start-column="35" selection-end-line="100" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/protocol.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/protocol.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rpcmining.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3132">
+          <caret line="174" column="20" lean-forward="false" selection-start-line="174" selection-start-column="20" selection-end-line="174" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crypter.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5238">
+          <caret line="291" column="0" lean-forward="false" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="80" column="66" lean-forward="false" selection-start-line="80" selection-start-column="66" selection-end-line="80" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chainparams.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1566">
+          <caret line="87" column="22" lean-forward="false" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3636">
+          <caret line="202" column="5" lean-forward="false" selection-start-line="202" selection-start-column="5" selection-end-line="202" selection-end-column="5" />
+          <folding>
+            <element signature="e#630#688#0" expanded="true" />
+            <element signature="e#77259#78803#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bignum.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13068">
+          <caret line="726" column="0" lean-forward="false" selection-start-line="726" selection-start-column="0" selection-end-line="726" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crypter.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5238">
+          <caret line="291" column="0" lean-forward="false" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crypter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="48" column="34" lean-forward="false" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="65" column="25" lean-forward="false" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1314">
+          <caret line="73" column="15" lean-forward="true" selection-start-line="73" selection-start-column="15" selection-end-line="73" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3636">
+          <caret line="202" column="5" lean-forward="true" selection-start-line="202" selection-start-column="5" selection-end-line="202" selection-end-column="5" />
+          <folding>
+            <element signature="e#630#688#0" expanded="true" />
+            <element signature="e#77259#78803#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base58.cpp" />
+    <entry file="file://$PROJECT_DIR$/src/bignum.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13068">
+          <caret line="726" column="0" lean-forward="false" selection-start-line="726" selection-start-column="0" selection-end-line="726" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crypter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="48" column="34" lean-forward="false" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crypter.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5238">
+          <caret line="291" column="0" lean-forward="false" selection-start-line="291" selection-start-column="0" selection-end-line="291" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/share/qt/make_windows_icon.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/share/qt/make_spinner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/share/genbuild.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rpcmining.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3132">
+          <caret line="174" column="20" lean-forward="false" selection-start-line="174" selection-start-column="20" selection-end-line="174" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkpoints.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/miner.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-370">
+          <caret line="100" column="35" lean-forward="false" selection-start-line="100" selection-start-column="35" selection-end-line="100" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/net.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/protocol.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/protocol.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkpoints.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/txdb-leveldb.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="353" column="61" lean-forward="false" selection-start-line="353" selection-start-column="61" selection-end-line="353" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="250" column="4" lean-forward="false" selection-start-line="250" selection-start-column="4" selection-end-line="250" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/share/seeds/generate-seeds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2034">
+          <caret line="117" column="43" lean-forward="false" selection-start-line="117" selection-start-column="43" selection-end-line="117" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39924">
+          <caret line="2218" column="0" lean-forward="false" selection-start-line="2218" selection-start-column="0" selection-end-line="2218" selection-end-column="0" />
+          <folding>
+            <element signature="e#630#688#0" expanded="true" />
+            <element signature="e#77259#78803#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/base58.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="18" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chainparams.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1271">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chainparams.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="116" column="41" lean-forward="false" selection-start-line="116" selection-start-column="41" selection-end-line="116" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/qt/forms/overviewpage.ui">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="58" column="39" lean-forward="false" selection-start-line="58" selection-start-column="39" selection-end-line="58" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

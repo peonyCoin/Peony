@@ -1,0 +1,9 @@
+Building PeonyCoin
+
+See doc/readme-qt.rst for instructions on building PeonyCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PeonyCoin.
+
+See doc/build-*.txt for instructions on building peonycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PeonyCoin.
